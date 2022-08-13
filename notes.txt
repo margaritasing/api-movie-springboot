@@ -1,0 +1,2 @@
+Ctrl + Shift + N => Search for file names/class
+Ctrl + Shift + F => Search for content inside file
